@@ -1,5 +1,5 @@
 {
-  "name": "template",
+  "name": "destructuring",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -31,5 +31,13 @@
   },
   "dependencies": {
     "core-js": "^3.6.5"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Evgeniy-27/Destructuring.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Evgeniy-27/Destructuring/issues"
+  },
+  "homepage": "https://github.com/Evgeniy-27/Destructuring#readme"
 }
